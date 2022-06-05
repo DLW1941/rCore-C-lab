@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "*.tcc": "c",
+        "chrono": "c",
+        "exception": "c",
+        "fstream": "c",
+        "istream": "c",
+        "mutex": "c",
+        "new": "c",
+        "ostream": "c",
+        "sstream": "c",
+        "stdexcept": "c",
+        "streambuf": "c",
+        "type_traits": "c",
+        "__hash_table": "c",
+        "iterator": "c",
+        "memory": "c",
+        "ios": "c",
+        "bitset": "c",
+        "algorithm": "c",
+        "deque": "c"
+    }
+}
